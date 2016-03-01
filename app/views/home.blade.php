@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	this is home page
+	this is home
 </body>
 </html>
